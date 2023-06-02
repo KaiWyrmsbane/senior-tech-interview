@@ -1,0 +1,4 @@
+@baseUrl = https://ti-patient-service.azurewebsites.net
+GET {{baseUrl}}/patients
+###
+GET {{baseUrl}}/patients/{{patientId}}

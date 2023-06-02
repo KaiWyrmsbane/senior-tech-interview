@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "PxXJ4vcwLhlnuEbpNOrLzP160WycVW5VmPFmShwoXzQ=",
+  "Source": "PatientViewer",
+  "BasePath": "_content/PatientViewer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
