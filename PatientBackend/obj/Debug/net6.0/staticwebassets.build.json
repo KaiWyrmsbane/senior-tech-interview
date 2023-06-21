@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "aC9teu6sRamIio9GAszr4vnWyO5kmWrIgqSnQFuZus4=",
+  "Source": "PatientBackend",
+  "BasePath": "_content/PatientBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
