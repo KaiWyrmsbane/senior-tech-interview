@@ -14,15 +14,15 @@ namespace PatientBackend.Controllers
         {
             processor = new GetPatientByAPI();
         }
-        //[Authorize]
+        [Authorize]
         [HttpGet("/patients")]
         public async Task<IActionResult> patients()
         {
             var resultContentString = await processor.GetPatients();
             return Ok(resultContentString);
         }
-        // [Authorize]
-        [HttpGet("/patients/{patientId}")]
+        [Authorize]
+        [HttpGet("/patient/{patientId}")]
         public async Task<IActionResult> patientId(string patientId)
         {
             var resultContentString = await processor.GetPatients();

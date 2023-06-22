@@ -1941,11 +1941,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\james\\Documents\\Work\\Assessment Code\\RxLightning-Software-Engineer\\assessment-code\\PatientBackend\\PatientBackend\\PatientBackend.csproj",
+      "projectUniqueName": "C:\\Users\\james\\Documents\\Work\\Assessment Code\\RxLightning-Software-Engineer\\Repos\\senior-tech-interview\\PatientBackend\\PatientBackend.csproj",
       "projectName": "PatientBackend",
-      "projectPath": "C:\\Users\\james\\Documents\\Work\\Assessment Code\\RxLightning-Software-Engineer\\assessment-code\\PatientBackend\\PatientBackend\\PatientBackend.csproj",
+      "projectPath": "C:\\Users\\james\\Documents\\Work\\Assessment Code\\RxLightning-Software-Engineer\\Repos\\senior-tech-interview\\PatientBackend\\PatientBackend.csproj",
       "packagesPath": "C:\\Users\\james\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\james\\Documents\\Work\\Assessment Code\\RxLightning-Software-Engineer\\assessment-code\\PatientBackend\\PatientBackend\\obj\\",
+      "outputPath": "C:\\Users\\james\\Documents\\Work\\Assessment Code\\RxLightning-Software-Engineer\\Repos\\senior-tech-interview\\PatientBackend\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
